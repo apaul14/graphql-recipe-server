@@ -1,0 +1,26 @@
+{
+  "name": "graphql-recipe-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apaul14/graphql-recipe-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apaul14/graphql-recipe-server/issues"
+  },
+  "homepage": "https://github.com/apaul14/graphql-recipe-server#readme"
+}
